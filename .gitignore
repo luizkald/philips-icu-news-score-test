@@ -1,0 +1,10 @@
+# Build
+.claude/
+build/
+_deps/
+
+# Editor / OS
+.vscode/
+.idea/
+*.o
+*.obj
